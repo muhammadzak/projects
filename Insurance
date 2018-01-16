@@ -1,6 +1,6 @@
+
+Project 1:
 Make buying life insurance easier.
-
-
 
 Challenge:
 In a one-click shopping world with on-demand everything, the life insurance application process is antiquated(outdated). 
@@ -30,8 +30,7 @@ Medical_History_1-41	A set of normalized variables relating to the medical histo
 Medical_Keyword_1-48	A set of dummy variables relating to the presence of/absence of a medical keyword being associated with the application.
 Response	This is the target variable, an ordinal variable relating to the final decision associated with an application
 
-
 Nearly 100 GB dataset for 106 million people.
-
+https://www.antheminc.com/
+https://en.wikipedia.org/wiki/Anthem_Inc.
 https://www.kaggle.com/c/prudential-life-insurance-assessment
-
