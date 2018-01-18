@@ -1,4 +1,35 @@
 Image classfication
+
+acquiring a dataset, training a deep network, and evaluating of the results.
+
+Diabetic retinopathy is the fastest growing cause of blindness.
+
+415 m people with Diabetes.
+
+Each of them going suffer blindness because Diabetic retinopathy
+
+NO dr
+mild dr
+moderate dr
+sever dr
+proliferative dr
+
+India short of 12700 eye doctors
+
+45% of patients suffer vision loss before diagnosis
+
+130k photos tagged labeled data by hiring 54 orphalmologists
+
+26 layer cnn 
+
+f score 95
+
+arvind hospital
+sankara eye hospital
+
+
+
+
 object detection
 https://medium.com/@awjuliani/recognizing-sounds-a-deep-learning-case-study-1bc37444d44d
 https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/
